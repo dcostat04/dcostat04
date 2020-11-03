@@ -3,8 +3,11 @@
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=dcostat04&show_icons=true&theme=radical" width="500"></td>
-<td>
-  
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcostat04&show_icons=true&theme=radical" /></td>
+</tr>
+
+
+
 ### Hi there 👋
 
 🔭 I’m currently working on College Mini Project. (Canteen Management system)<br>
