@@ -1,4 +1,4 @@
-![MY HEADER](https://github.com/dcostat04/dcostat04/blob/main/Trevor%20github.png,width=500)
+![MY HEADER](https://github.com/dcostat04/dcostat04/blob/main/trevgithub.png)
 
 <table>
 <tr>
