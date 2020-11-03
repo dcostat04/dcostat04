@@ -3,7 +3,9 @@
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=dcostat04&show_icons=true" width="500"></td>
 <td>
+  
 ### Hi there 👋
+
 🔭 I’m currently working on College Mini Project. (Canteen Management system)<br>
 🔭 Also working on another Project. (Scanning and uploading system)<br>
 🌱 I’m currently Learning Web Backend Development and also Computer Vision.<br>
