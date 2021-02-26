@@ -8,7 +8,7 @@
 
 
 
-### Hi there 👋
+### Hi there 👋 Click on the image above to see my blog site
 
 🔭 I’m currently working on College Mini Project. (Canteen Management system)<br>
 🔭 Also worked on other Projects. (Scanning and uploading system)<br>
