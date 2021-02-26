@@ -11,7 +11,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on College Mini Project. (Canteen Management system)<br>
-🔭 Also working on another Project. (Scanning and uploading system)<br>
+🔭 Also worked on other Projects. (Scanning and uploading system)<br>
+🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]
 🌱 I’m currently Learning Web Backend Development and also Computer Vision.<br>
 
 <table>
