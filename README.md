@@ -20,12 +20,12 @@
 <td>
 <a href="https://www.hackerrank.com/dcostat4" target="_blank" title="Redirect to homepage">
 <img height="32px" width="32px"
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/HackerRank_logo_clbbjf.svg" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/hackerrank.svg"/></a>
 </td>
 <td>
 <a href="https://twitter.com/TrevorDcosta04" target="_blank" title="Redirect to homepage">
 <img
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229044/for%20github%20profile/twitter_dbuptk.png" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229044/for%20github%20profile/twitter%27.png"/></a>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/trevor-aaron-robert-dcosta-7558631a6/" target="_blank"
