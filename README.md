@@ -31,7 +31,7 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229044/for%20github%
 <a href="https://www.linkedin.com/in/trevor-aaron-robert-dcosta-7558631a6/" target="_blank"
 title="Redirect to homepage">
 <img
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%20profile/linkedin_kcwoc2.png" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%20profile/linkedin.png"/></a>
 </td>
 <td>
 <a href="https://www.instagram.com/trevor_da_costa04/" target="_blank" title="Redirect to homepage">
