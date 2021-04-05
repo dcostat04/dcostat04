@@ -10,12 +10,13 @@
 
 ### Hi there 👋 Click on the image above to see my blog site
 
-🔭 I’m currently working on College Mini Project. (Canteen Management system)<br>
-🔭 I’m also working on another Project. (Banking Management system)<br>
-🔭 Also worked on other Projects. (Scanning and uploading system)<br>
+🔭 I’m currently working on College Mini Project. (Canteen Management system) 90%-95% done<br>
+🔭 I’m also working on another Project. (Mesa-FCRIT official website)<br>
+🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>Link to website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
-🌱 I’m currently Learning Web Backend Development and also Computer Vision.<br>
-
+🌱 I’m good at frontend(Html,cssand JS) and backend(Flask).<br>
+🌱 I’m currently learning React and Node.Js.
+🌱 I’m also learning React and Node.Js.
 <table>
 <tr>
 <td>
