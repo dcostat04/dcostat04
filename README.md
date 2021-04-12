@@ -8,7 +8,7 @@
 
 
 
-### Hi there 👋 Click on the image above to see my blog site
+### Hi there 👋 Click  <a href="https://trevorblogs.herokuapp.com/" target="_blank" title="Fitness Freak">here</a> to see my blog site
 
 🔭 I’m currently working on College Mini Project. (Canteen Management system) 90%-95% done<br>
 🔭 I’m also working on another Project. (Mesa-FCRIT official website)<br>
