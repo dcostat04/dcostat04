@@ -10,8 +10,8 @@
 
 ### Hi there 👋 Click  <a href="https://trevorblogs.herokuapp.com/" target="_blank" title="Fitness Freak">here</a> to see my blog site
 
-🔭 I’m currently working on College Mini Project. (Canteen Management system) 90%-95% done<br>
-🔭 I’m also working on another Project. (Mesa-FCRIT official website)<br>
+🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
+🔭 I’have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>Link to website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 🌱 I’m good at frontend(Html,cssand JS) and backend(Flask).<br>
