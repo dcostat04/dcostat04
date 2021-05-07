@@ -9,6 +9,7 @@
 
 
 ### Hi there 👋 Click  <a href="https://trevorblogs.herokuapp.com/" target="_blank" title="Fitness Freak">here</a> to see my blog site
+### Click on the top image for my Portfolio Website
 
 🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
 🔭 I’have also designed the site for Mesa-FCRIT. <br>
