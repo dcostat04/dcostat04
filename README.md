@@ -15,7 +15,7 @@
 🔭 I’have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>Link to website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
-🌱 I’m good at frontend(Html,cssand JS) and backend(Flask).<br>
+🌱 I’m good at frontend(Html,css and JS) and backend(Flask).<br>
 🌱 I’m currently learning React and Node.Js.
 🌱 I’m also learning Cyber Security and Machine learning.
 <table>
