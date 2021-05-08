@@ -14,8 +14,10 @@
 🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
 🔭 I’have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
-🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>Link to Fitness website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
-Link to Canteen website: <a href="https://canteenmanagement1.herokuapp.com/user/login/" target="_blank" title="Fitness Freak">FCRIT Canteen</a> <br>
+🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
+Link to Fitness website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
+Link to Canteen website: <a href="https://canteenmanagement1.herokuapp.com/user/login/" target="_blank" title="Fcrit Canteen">FCRIT Canteen</a> <br>
+Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">FCRIT Canteen</a> <br>
 🌱 I’m good at frontend(Html,css and JS) and backend(Flask).<br>
 🌱 I’m currently learning React and Node.Js.
 🌱 I’m also learning Cyber Security and Machine learning.
