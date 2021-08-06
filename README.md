@@ -15,7 +15,7 @@
 🔭 I’have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
-Link to Fitness website: <a href="https://fitness-freaks.github.io/test1/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
+Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 Link to Canteen website: <a href="https://canteenmanagement1.herokuapp.com/user/login/" target="_blank" title="Fcrit Canteen"> FCRIT Canteen</a> <br>
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
 🌱 I’m good at frontend(Html,css and JS) and backend(Flask).<br>
