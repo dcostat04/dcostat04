@@ -19,8 +19,7 @@
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 Link to Canteen website: <a href="https://github.com/dcostat04/Canteen-FCRIT" target="_blank" title="Fcrit Canteen"> FCRIT Canteen</a> <br>
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
-🌱 I’m good at frontend(Html,css and JS) and backend(Flask).<br>
-🌱 I’m currently learning React and Node.Js.
+🌱 I’m good at frontend(Html,css and JS) and backend(Flask and Django).<br>
 🌱 I’m also learning Cyber Security and Machine learning.
 <table>
 <tr>
