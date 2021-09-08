@@ -12,7 +12,8 @@
 ### Click on the top image for my Portfolio Website
 
 🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
-🔭 I’have also designed the site for Mesa-FCRIT. <br>
+🔭 I have also designed the site for Mesa-FCRIT. <br>
+🔭 Part of the devlopment team that developed a site for our college fest FACES 2021<br> 
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
