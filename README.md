@@ -26,13 +26,14 @@ Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_bl
 <td>
 <a href="https://www.hackerrank.com/dcostat4" target="_blank" title="Redirect to homepage">
 <img height="32px" width="32px"
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/codechef.svg"/></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/hackerrank.svg"/></a>
 </td>
 <td>
 <a href="https://www.codechef.com/users/trevordco04" target="_blank" title="Redirect to homepage">
 <img height="32px" width="32px"
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/hackerrank.svg"/></a>
+src="https://github.com/dcostat04/dcostat04/blob/main/codechef-svgrepo-com.svg"/></a>
 </td>
+<td>
 <td>
 <a href="https://twitter.com/TrevorDcosta04" target="_blank" title="Redirect to homepage">
 <img
