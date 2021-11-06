@@ -33,7 +33,7 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%
 <img height="32px" width="32px"
 src="https://github.com/dcostat04/dcostat04/blob/main/codechef-svgrepo-com.svg"/></a>
 </td>
-<td>
+
 <td>
 <a href="https://twitter.com/TrevorDcosta04" target="_blank" title="Redirect to homepage">
 <img
