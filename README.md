@@ -13,7 +13,7 @@
 
 🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
 🔭 Currently working on BlockCheck (A blockchain based fake product predictor using Solidity and ReactJS)<br>
-🔭 Part of the devlopment team that developed a site for our college fest FACES 2021<br> 
+🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 and ETAMAX 2022<br> 
 🔭 I have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
