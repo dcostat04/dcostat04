@@ -11,9 +11,8 @@
 ### Hi there 👋 Click  <a href="https://trevorblogs.herokuapp.com/" target="_blank" title="Fitness Freak">here</a> to see my blog site
 ### Click on the top image for my Portfolio Website
 
-🔭 My Projects (Canteen Management system)(Fitness Freaks)(turf booking system)(travel itinerary planner) <br>
-🔭 Currently working on BlockCheck (A blockchain based fake product predictor using Solidity and NextJS)<br>
-🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 and ETAMAX 2022<br> 
+🔭 My Projects: BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) Canteen-FCRIT (Canteen Management system) Fitness Freaks (Pose Detector) Turf booking system(Turf-booking-Using-Flask) Travel-Planner-DBMS(travel itinerary planner)<br>
+🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 , ETAMAX 2022 and IEI-BLC FCRIT<br> 
 🔭 I have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
