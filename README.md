@@ -56,8 +56,9 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%
 </td>
 
 </tr>
-</table>
 
+</table>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dcostat04.dcostat04)
 <!--
 **dcostat04/dcostat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
