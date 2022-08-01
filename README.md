@@ -20,7 +20,8 @@
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
 🌱 I’m good at frontend(Html,css ,Js,ReactJS and NextJS) and backend(Flask and Django).<br>
-🌱 I’m also learning Blockchain,Cyber Security and Machine Learning
+🌱 I’m also learning Blockchain,Cyber Security and Machine Learning <br>
+
 <table>
 <tr>
 <td>
@@ -58,7 +59,7 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%
 </tr>
 
 </table>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dcostat04.dcostat04)
+
 <!--
 **dcostat04/dcostat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
