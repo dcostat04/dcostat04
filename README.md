@@ -1,15 +1,14 @@
-[![MY HEADER](https://github.com/dcostat04/dcostat04/blob/main/gg.png)](https://dcostat04.github.io/trevorporfolio/ )
 
 <table>
 <tr>
- <td><img src="https://github-readme-stats.vercel.app/api?username=dcostat04&show_icons=true&theme=radical" width="500"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=dcostat04&show_icons=true&theme=radical" width="500"></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcostat04&show_icons=true&theme=radical" /></td> 
 </tr>
+<tr><td><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dcostat04&theme=tokyonight" /></td></tr>
 
 
-
-### Hi there 👋 Click  <a href="https://trevorblogs.herokuapp.com/" target="_blank" title="Fitness Freak">here</a> to see my blog site
-### Click on the top image for my Portfolio Website
+# Hi, I am Trevor D'Costa!
+<img src="https://activity-graph.herokuapp.com/graph?username=dcostat04&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 🔭 My College Projects: <br>
                ⚡BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) <br>
@@ -19,7 +18,6 @@
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system,etc.)<br>
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
-<!-- Link to Canteen website: <a href="https://github.com/dcostat04/Canteen-FCRIT" target="_blank" title="Fcrit Canteen"> FCRIT Canteen</a> <br> -->
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
 🌱 I’m good at frontend(Html,css ,Js,ReactJS and NextJS) and backend(Flask and Django).<br>
 🌱 I’m also learning Blockchain,Cyber Security and Machine Learning
