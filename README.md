@@ -10,7 +10,7 @@
 # Hi, I am Trevor D'Costa!
 <img src="https://activity-graph.herokuapp.com/graph?username=dcostat04&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-🔭 Currently Interning as a Full Stack Developer at ZedexInfo Pvt. Ltd.
+🔭 Currently Interning as a Full Stack Developer at ZedexInfo Pvt. Ltd.<br>
 🔭 My College Projects: <br>
                ⚡BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) <br>
                ⚡Canteen-FCRIT (Canteen Management system)<br> 
