@@ -10,9 +10,11 @@
 # Hi, I am Trevor D'Costa!
 <img src="https://activity-graph.herokuapp.com/graph?username=dcostat04&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
+🔭 Currently Interning as a Full Stack Developer at ZedexInfo Pvt. Ltd.
 🔭 My College Projects: <br>
                ⚡BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) <br>
                ⚡Canteen-FCRIT (Canteen Management system)<br> 
+               ⚡SEO and Content Management System (A out-house project for ZedexInfo Pvt.Ltd )
 🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 , ETAMAX 2022 and IEI-BLC FCRIT<br> 
 🔭 I have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system,etc.)<br>
@@ -20,7 +22,7 @@
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
 🌱 I’m good at frontend(Html,css ,Js,ReactJS and NextJS) and backend(Flask and Django).<br>
-🌱 I’m also learning Blockchain,Cyber Security and Machine Learning <br>
+🌱 I’m also interested in Cyber Security, Blockchain and Machine Learning <br>
 
 <table>
 <tr>
