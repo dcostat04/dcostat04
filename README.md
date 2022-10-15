@@ -14,7 +14,8 @@
 🔭 My College Projects: <br>
                ⚡BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) <br>
                ⚡Canteen-FCRIT (Canteen Management system)<br> 
-               ⚡SEO and Content Management System (A out-house project for ZedexInfo Pvt.Ltd )
+               ⚡SEO and Content Management System (A out-house project for ZedexInfo Pvt.Ltd )<br>
+             
 🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 , ETAMAX 2022 and IEI-BLC FCRIT<br> 
 🔭 I have also designed the site for Mesa-FCRIT. <br>
 🔭 Also worked on other Projects. (Scanning and uploading system,Banking Management system,etc.)<br>
