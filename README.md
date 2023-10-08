@@ -8,13 +8,14 @@
 
 
 # Hi, I am Trevor D'Costa!
-<img src="https://activity-graph.herokuapp.com/graph?username=dcostat04&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-🔭 Currently Interning as a Full Stack Developer at ZedexInfo Pvt. Ltd.<br>
+🔭 Working as a Storage Analyst (BA3 Graduate) at Barclays India, Kharadi, Pune<br>
+🔭 Interned as a Full Stack Developer Intern at ZedexInfo Pvt. Ltd., Bhandup, Mumbai<br>
+🔭 Completed My B.E (Bachelor of Engineering) in Computer Engineering at Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai<br>
 🔭 My College Projects: <br>
+               ⚡SEO and Content Management System (A out-house project for ZedexInfo Pvt.Ltd )<br>
                ⚡BlockCheck (A blockchain based fake product predictor using Solidity and NextJS) <br>
                ⚡Canteen-FCRIT (Canteen Management system)<br> 
-               ⚡SEO and Content Management System (A out-house project for ZedexInfo Pvt.Ltd )<br>
              
 🔭 Part of the devlopment team that developed a site for our college fest FACES 2021 , ETAMAX 2022 and IEI-BLC FCRIT<br> 
 🔭 I have also designed the site for Mesa-FCRIT. <br>
@@ -22,7 +23,7 @@
 🔭 Also Runner Up of Etamax 2021 Hackathon [ Fitness Freak (A web based fitness helper)]<br>
 Link to Fitness website: <a href="https://dcostat04.github.io/Fitness-Freak-/" target="_blank" title="Fitness Freak">Fitness Freak</a> <br>
 Link to MESA-FCRIT Official website: <a href="https://mesafcrit.in/" target="_blank" title="Mesa FCRIT">MESA-FCRIT</a> <br>
-🌱 I’m good at frontend(Html,css ,Js,ReactJS and NextJS) and backend(Flask, Django and NodeJS).<br>
+🌱 I’m good at frontend(Html,css ,Js,ReactJS and NextJS) and backend(Flask, GraphQL and NodeJS).<br>
 🌱 I’m also interested in Cyber Security, Blockchain and Machine Learning <br>
 
 <table>
