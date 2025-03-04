@@ -9,7 +9,7 @@
 
 # Hi, I am Trevor D'Costa!
 
-🔭 Working as a Graduate Analyst (BA3 Graduate) at Barclays India, Kharadi, Pune<br>
+🔭 Working as a Software Engineer - Storage Infrastructure (BA4) at Barclays India, Kharadi, Pune<br>
 🔭 Interned as a Full Stack Developer Intern at ZedexInfo Pvt. Ltd., Bhandup, Mumbai<br>
 🔭 Completed My B.E (Bachelor of Engineering) in Computer Engineering at Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai<br>
 🔭 My College Projects: <br>
